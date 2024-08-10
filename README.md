@@ -8,6 +8,6 @@
 
 
 # Instruction
-* Off Microsoft Defender 
+* Turn off Microsoft Defender 
 * Run
 * Enjoy!
